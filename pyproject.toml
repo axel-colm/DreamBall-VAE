@@ -6,6 +6,7 @@ dependencies = [
     "numpy",
     "pillow",
     "pymunk>=7",
+    "torch",
 ]
 
 [build-system]
